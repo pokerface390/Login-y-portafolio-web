@@ -20,7 +20,6 @@
       overflow-x: hidden;
     }
 
-    /* Floating particles animation */
     .particles {
       position: fixed;
       top: 0;
@@ -68,7 +67,6 @@
       transform: translateY(-2px);
     }
 
-    /* Section titles */
     h1, h2 {
       color: #001f3f;
       font-weight: 700;
@@ -97,7 +95,6 @@
       font-weight: 600;
     }
 
-    /* Hero section */
     #inicio {
       background: var(--primary-gradient);
       color: white;
@@ -373,7 +370,6 @@
       display: inline-block;
     }
 
-    /* GitHub section */
     #github {
       position: relative;
       background: url('IMG/10.jpeg') no-repeat center center/cover;
