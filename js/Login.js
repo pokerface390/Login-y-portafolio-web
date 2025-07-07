@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const contrasena = document.getElementById('p').value.trim();
 
     if (correo === 'ESEWE@gmail.com' && contrasena === 'esewe123@') {
-      window.location.href = 'index.html';
+      window.location.href = 'portafolio.html';
     } else {
       alert('Correo o contraseña incorrectos');
     }
