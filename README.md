@@ -56,28 +56,46 @@ Tipografía clara y moderna para mejorar la legibilidad.
 
 Posicionamiento centrado del formulario para una mejor experiencia de usuario.
 
-Capturas del Portafolio:
+![image](https://github.com/user-attachments/assets/895413c6-1324-49c6-bb8e-defec7325c17)
 
-![image](https://github.com/user-attachments/assets/b99b56f2-771d-4086-8df6-1f3e9dd63877)
-
-![image](https://github.com/user-attachments/assets/51ee577a-8d36-48d8-bb01-5a7c6c26f7c7)
-
-
-![image](https://github.com/user-attachments/assets/033d9765-c7ac-437c-a7a4-1f18e8919511)
+Explicacion del color de fondo:
+![image](https://github.com/user-attachments/assets/20eafb6c-5460-4e87-9a23-726d1d41d9fb)
 
 
-![image](https://github.com/user-attachments/assets/f7b36c03-7b32-4d45-b09e-46307e2f5794)
+Color principal Tonalidad azul degradado
 
-![image](https://github.com/user-attachments/assets/70d63a29-9827-4fdc-9b3d-c6879391a39a)
+Justificación: El azul transmite confianza, seguridad y profesionalismo, lo cual es importante para aplicaciones relacionadas con el desarrollo de software y manejo de datos.
 
-![image](https://github.com/user-attachments/assets/786a27db-5c9b-44f3-a18e-c344654f1194)
+![image](https://github.com/user-attachments/assets/16e2089c-4b01-4652-8052-ced88f345cc7)
 
-Capturas del Login:
+Explicacion del Logo:
 
-![image](https://github.com/user-attachments/assets/bef416c9-19a3-4c39-985d-62dfa9ea835d)
+Diseño: El logo incluye una etiqueta de código </> y un engranaje, símbolos comunes del desarrollo y la ingeniería de software.
 
-Correo de Ejemplo: ESEWE@gmail.com
+Significado:
+
+</> representa la programación y el código fuente.
+
+El engranaje simboliza el trabajo técnico y los procesos automáticos del software.
+
+Color del logo: Combinación de negro (formalidad, seriedad) y azul (tecnología y confianza).
+
+Ubicación: En el lado izquierdo, brinda identidad visual y refuerza el propósito de la aplicación.
+
+![image](https://github.com/user-attachments/assets/c3b143b0-00ba-40c1-84a2-d4a348de39ce)
+
+
+Apartado de Validaciones
+
+En Correo para Validar como ejemplo: ESEWE@gmail.com
+
 contraseña de Ejemplo esewe123@
+
+![image](https://github.com/user-attachments/assets/fbf12d5a-2970-4921-9dce-c1f04a45a5dd)
+
+
+
+
 
 
 
