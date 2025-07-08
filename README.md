@@ -4,7 +4,12 @@
 
 ---
 
-## Breve Descripción
+## Portada
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0427bb76-fd25-4e8c-a9cf-919ea92dea26" width="600"/>
+</div>
+
 
 ### Descripción del Login
 
@@ -13,11 +18,6 @@ El sistema de login es una funcionalidad fundamental en cualquier aplicación o 
 Este proceso de autenticación permite verificar la identidad del usuario y garantizar que solo personas autorizadas puedan acceder a ciertas áreas o realizar acciones específicas. Además, puede incluir medidas adicionales de seguridad como la encriptación de contraseñas, gestión de sesiones, protección contra ataques de fuerza bruta y opciones para recuperación de contraseña.
 
 Un buen sistema de login mejora la experiencia del usuario y protege la integridad de la plataforma.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0427bb76-fd25-4e8c-a9cf-919ea92dea26" width="600"/>
-</div>
-
 ---
 
 ### Descripción del Portafolio
@@ -129,10 +129,3 @@ El proyecto de login está compuesto por varios archivos y módulos que trabajan
 
 ---
 
-## Autor y Año
-
-**Arturo Bladimir Pérez Vásquez**  
-Centro Universitario Casando  
-Licenciatura en Administración  
-Materia: Derecho II  
-**2025**
