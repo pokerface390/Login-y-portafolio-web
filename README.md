@@ -1,7 +1,6 @@
 # <p align="center">Portafolio</p>
 
-## <p align="center">POrtada/p>
-
+## <p align="center">Portada</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a1e7243-ee8a-4318-86b5-6af9b7779048" alt="Portada" />
