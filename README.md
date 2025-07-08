@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7dab21e-9643-45c9-b979-fbf53d9f93cc"/>
+  <img src="https://github.com/user-attachments/assets/f7dab21e-9643-45c9-b979-fbf53d9f93cc/portada.png" alt="Portada" />
 </p>
+
 
 ## <p align="center">Breve explicación</p>
 
