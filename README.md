@@ -1,4 +1,3 @@
-
 # <p align="center">Portafolio</p>
 
 ## <p align="center">Breve explicación</p>
@@ -16,7 +15,11 @@ Este portafolio digital tiene como objetivo presentar de forma clara y profesion
 </p>
 
 <p align="justify">
-La barra de navegación principal está diseñada con un fondo oscuro que resalta el texto claro, permitiendo una lectura cómoda. El espaciado entre las opciones es limpio y uniforme, y se emplea una tipografía moderna sin serifas que mejora la legibilidad. Este menú permanece fijo en la parte superior, facilitando el acceso rápido a todas las secciones del portafolio de manera intuitiva y sin distracciones.
+La barra de navegación principal está diseñada con un fondo oscuro (negro o gris oscuro) que resalta el texto claro, permitiendo una lectura cómoda sin distracciones. Se emplea una tipografía moderna sin serifas para reforzar la estética tecnológica. El espaciado entre opciones está bien distribuido, mejorando la legibilidad y la experiencia del usuario.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> Se optó por colores oscuros porque generan contraste, ayudan a centrar la atención y proyectan una sensación de estabilidad. El menú fijo mejora la usabilidad al permitir desplazarse a cualquier sección rápidamente.
 </p>
 
 ---
@@ -28,7 +31,11 @@ La barra de navegación principal está diseñada con un fondo oscuro que resalt
 </p>
 
 <p align="justify">
-La portada es la primera impresión que recibe el visitante. Se optó por un fondo sobrio en color oscuro para destacar el texto en blanco o azul suave. El diseño transmite profesionalismo y seriedad desde el primer momento. Aquí se presenta mi nombre, especialidad y una frase introductoria que define mi perfil profesional, todo en una estructura visual equilibrada.
+La portada actúa como carta de presentación visual. Se utiliza un fondo sobrio en color oscuro para destacar los textos en blanco o azul claro, creando contraste y enfoque inmediato. Esta sección contiene mi nombre, título profesional y una frase introductoria que resume mi perfil.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> El contraste entre colores oscuros y tipografía clara genera una experiencia visual profesional y elegante. Esta sección cumple con el objetivo de causar una buena primera impresión sin sobrecargar la vista.
 </p>
 
 ---
@@ -40,7 +47,11 @@ La portada es la primera impresión que recibe el visitante. Se optó por un fon
 </p>
 
 <p align="justify">
-En esta sección se destacan los lenguajes de programación, frameworks y herramientas que manejo. El fondo blanco ayuda a que los logotipos se visualicen con nitidez, y su disposición tipo cuadrícula permite una lectura ordenada y rápida. Este apartado resume de manera gráfica mi stack tecnológico actual.
+Aquí se presentan los lenguajes de programación, frameworks y herramientas que domino. El fondo blanco ayuda a que los logotipos de tecnologías destaquen. La estructura en forma de cuadrícula ordena visualmente los elementos.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> El fondo claro se eligió para dar protagonismo a los íconos tecnológicos. La disposición en grid comunica orden y variedad de conocimientos de forma compacta y legible.
 </p>
 
 ---
@@ -56,7 +67,11 @@ En esta sección se destacan los lenguajes de programación, frameworks y herram
 </p>
 
 <p align="justify">
-Este apartado muestra los logros y actividades que he realizado durante mi etapa académica. Cada experiencia está bien diferenciada mediante columnas o recuadros, usando colores neutros para mantener una apariencia limpia y organizada. Esto permite al lector identificar fácilmente los proyectos y logros que forman parte de mi formación profesional.
+Este apartado destaca proyectos, actividades y logros obtenidos durante mi formación académica. Cada elemento está claramente separado con colores suaves y secciones ordenadas, lo que mejora la lectura y comprensión.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> Se usaron tonos neutros para centrar la atención en el contenido escrito y evitar distracciones. La organización en columnas mejora la navegación visual y ayuda a distinguir cada experiencia.
 </p>
 
 ---
@@ -68,7 +83,11 @@ Este apartado muestra los logros y actividades que he realizado durante mi etapa
 </p>
 
 <p align="justify">
-Esta sección está pensada para mostrar el lado más humano del desarrollador. Aquí incluyo mis intereses, valores personales y lo que me motiva día a día. El diseño es sencillo y accesible, con fondo claro y tipografía legible, enfocado en que el lector conecte conmigo más allá de lo técnico.
+Esta sección tiene un enfoque más personal. Describe quién soy, mis intereses, motivaciones y valores. Se optó por un diseño accesible con fondo claro, estructura tipo párrafo y texto bien espaciado.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> La simplicidad del fondo y la estructura textual permiten que el lector conecte emocionalmente con el contenido. Humaniza mi perfil sin perder profesionalismo.
 </p>
 
 ---
@@ -80,7 +99,11 @@ Esta sección está pensada para mostrar el lado más humano del desarrollador. 
 </p>
 
 <p align="justify">
-En esta sección detallo mis experiencias profesionales en el ámbito laboral. Se sigue una estructura cronológica para facilitar la comprensión del crecimiento profesional. Cada entrada destaca el nombre del puesto, responsabilidades y aprendizajes obtenidos. La presentación visual es sobria, utilizando colores neutros y textos claros para reflejar madurez y responsabilidad.
+Este apartado presenta mi experiencia en el ámbito profesional. Se organizan los trabajos en orden cronológico, con descripciones claras de cada rol y sus responsabilidades. Los colores neutros aportan sobriedad.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> El diseño sobrio y estructurado ayuda a transmitir madurez y experiencia profesional. Se busca claridad y enfoque en los logros laborales sin elementos visuales innecesarios.
 </p>
 
 ---
@@ -92,7 +115,11 @@ En esta sección detallo mis experiencias profesionales en el ámbito laboral. S
 </p>
 
 <p align="justify">
-Aquí se encuentran los certificados y diplomas que validan mi formación. El diseño elegido es tipo galería, lo cual permite una visualización ordenada sin saturar el espacio. Cada diploma está identificado visualmente para ofrecer confianza al lector y respaldar mis conocimientos.
+Aquí se muestran los reconocimientos, cursos y certificaciones obtenidas. Se organizan como una galería para visualización rápida y ordenada. Cada diploma está claramente identificado.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> El formato tipo galería evita el exceso de texto, muestra validaciones reales y proyecta confianza. El fondo claro y márgenes bien definidos aportan limpieza visual.
 </p>
 
 ---
@@ -104,7 +131,11 @@ Aquí se encuentran los certificados y diplomas que validan mi formación. El di
 </p>
 
 <p align="justify">
-Este apartado expone los repositorios que he desarrollado o en los que he colaborado. Los proyectos se presentan de forma clara, indicando su nombre, funcionalidad y tecnologías utilizadas. El fondo oscuro destaca las tarjetas de cada proyecto, facilitando la lectura y resaltando su contenido.
+Este apartado exhibe los proyectos que he desarrollado o en los que he colaborado. Cada uno está acompañado de una descripción, tecnologías utilizadas y enlaces. El fondo oscuro aporta contraste con las tarjetas de proyecto.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> El fondo oscuro resalta los elementos visuales y evita distracciones. Se busca transmitir orden, profesionalismo y variedad en los proyectos mostrados.
 </p>
 
 ---
@@ -116,7 +147,11 @@ Este apartado expone los repositorios que he desarrollado o en los que he colabo
 </p>
 
 <p align="justify">
-Por último, esta sección facilita la comunicación directa conmigo. Se incluyen los datos necesarios como correo electrónico y enlaces a redes profesionales. El diseño es limpio y directo, enfocado en ser funcional y accesible, sin elementos que distraigan del propósito principal.
+La sección final está dedicada a los medios de contacto. Incluye mi correo electrónico y enlaces a mis redes profesionales. El diseño es limpio, directo y fácilmente accesible.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> La sencillez visual favorece la acción: contactar. Se eliminan elementos decorativos para no distraer, enfocando la atención en los datos de comunicación.
 </p>
 
 ---
