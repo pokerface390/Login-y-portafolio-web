@@ -1,131 +1,95 @@
-# Login 
+Portafolio
+Breve explicación:
+Este portafolio digital tiene como objetivo presentar de forma clara y profesional mi perfil, habilidades, experiencias y trabajos. El diseño sigue una línea visual moderna, con colores sobrios (como el negro, gris, blanco y azul) que reflejan seriedad, profesionalismo y claridad visual.
 
-🔗 [Ver sitio en línea](https://pokerface390.github.io/ExamenWEB.github.io/)
+Barra de menú
+<p align="center"> <img src="https://github.com/user-attachments/assets/54de3f11-a9c6-4fd0-9d17-9218f0eed95e" alt="Barra de menú" /> </p>
+🎨 Diseño:
+Color oscuro de fondo (gris o negro) que contrasta con los textos claros para facilitar la lectura.
 
----
+Uso de espaciado limpio entre opciones.
 
-## Portada
+Tipografía moderna sin serifas.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0427bb76-fd25-4e8c-a9cf-919ea92dea26" width="600"/>
-</div>
+💬 Explicación:
+Este menú superior fijo ayuda a que el usuario pueda navegar fácilmente entre secciones. Elegí mantenerlo minimalista para no distraer y que cada sección sea el foco principal.
 
+Portada de presentación principal
+<p align="center"> <img src="https://github.com/user-attachments/assets/70523689-b121-4081-8cec-a522c84d4bdf" alt="Portada" /> </p>
+🎨 Diseño:
+Fondo sobrio con color oscuro para resaltar mi nombre y descripción.
 
-### Descripción del Login
+Uso de tipografía en blanco o azul suave para un contraste profesional.
 
-El sistema de login es una funcionalidad fundamental en cualquier aplicación o sitio web que requiera controlar el acceso a información o servicios exclusivos. Consiste en un formulario donde el usuario ingresa sus credenciales —normalmente un nombre de usuario, correo electrónico y contraseña— que son validadas contra una base de datos segura.
+💬 Explicación:
+La portada es lo primero que se ve, por eso elegí un diseño impactante pero sobrio. Comunica quién soy, mi rol, y deja una buena primera impresión sin estar sobrecargado.
 
-Este proceso de autenticación permite verificar la identidad del usuario y garantizar que solo personas autorizadas puedan acceder a ciertas áreas o realizar acciones específicas. Además, puede incluir medidas adicionales de seguridad como la encriptación de contraseñas, gestión de sesiones, protección contra ataques de fuerza bruta y opciones para recuperación de contraseña.
+Lenguajes y tecnologías
+<p align="center"> <img src="https://github.com/user-attachments/assets/9f5b1b2a-e141-401a-9b01-706af96cb972" alt="Tecnologías" /> </p>
+🎨 Diseño:
+Fondo blanco o claro que permite que los logos de tecnologías destaquen.
 
-Un buen sistema de login mejora la experiencia del usuario y protege la integridad de la plataforma.
----
+Organización tipo grid (cuadrícula) para fácil visualización.
 
-### Descripción del Portafolio
+💬 Explicación:
+Elegí este diseño para mostrar claramente qué herramientas domino. El uso de logos ayuda a identificar de inmediato tecnologías conocidas y demuestra visualmente mi stack técnico.
 
-Un portafolio personal es una herramienta digital que permite a un profesional mostrar sus habilidades, experiencia, proyectos y certificaciones de manera visual y organizada. Generalmente está compuesto por secciones que describen al individuo, sus conocimientos técnicos, experiencias académicas y laborales, y enlaces a trabajos realizados, como repositorios de código o proyectos web.
+Apartado de mis experiencias académicas
+<p align="center"> <img src="https://github.com/user-attachments/assets/27db8138-82e6-4681-a5b2-277be17e1128" alt="Académica 1" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/9bbc4204-a8ac-48e9-8449-fe17448f2350" alt="Académica 2" /> </p>
+🎨 Diseño:
+Colores claros y columnas divididas para separar cada experiencia o proyecto.
 
-El portafolio es fundamental para que un desarrollador o cualquier profesional del área tecnológica pueda presentarse ante reclutadores, clientes o colaboradores, demostrando su capacidad y profesionalismo. Además, suele incluir elementos visuales atractivos, como imágenes, íconos, y un diseño responsive que se adapte a distintos dispositivos.
+Íconos o logos pequeños para acompañar sin saturar.
 
----
+💬 Explicación:
+Aquí presento proyectos y logros obtenidos durante mi etapa académica. El diseño dividido por secciones permite que cada experiencia se entienda de forma individual. Usé colores neutros para que la información escrita sea lo principal.
 
-## Explicación de la Documentación
+Acerca más de mí
+<p align="center"> <img src="https://github.com/user-attachments/assets/36f4d7fd-04b5-4d70-9c34-c8510e02162a" alt="Sobre mí" /> </p>
+🎨 Diseño:
+Fondo claro con texto oscuro o viceversa para fácil lectura.
 
-### ¿Cómo está compuesto el proyecto?
+Estructura tipo párrafo con secciones como hobbies, intereses, valores.
 
-El proyecto de login está compuesto por varios archivos y módulos que trabajan en conjunto para ofrecer una funcionalidad segura y amigable para el usuario:
+💬 Explicación:
+Este espacio es más personal, por eso opté por un diseño más humano y cálido. Sirve para conectar con el lector y mostrar que detrás del código hay una persona con visión, pasiones y metas.
 
-- **HTML**: Contiene la estructura del formulario de inicio de sesión, donde el usuario ingresa su usuario y contraseña.
-- **CSS**: Define los estilos visuales del formulario y otros elementos, como colores, tipografías, tamaños y posiciones.
-- **JavaScript** (opcional): Valida en el cliente, verifica campos vacíos o formatos antes de enviar el formulario.
-- **Backend** (PHP, Node.js, etc.): Procesa datos, valida credenciales con la base de datos y administra sesiones.
-- **Base de datos**: Guarda la información de los usuarios (con contraseñas cifradas).
+Experiencia laboral
+<p align="center"> <img src="https://github.com/user-attachments/assets/600ee27a-e258-4ae1-97f3-f4a168e44a04" alt="Laboral" /> </p>
+🎨 Diseño:
+Estilo más formal.
 
----
+Fondo blanco o gris claro con títulos en azul o negro.
 
-### Principales métodos y funcionalidades
+💬 Explicación:
+Aquí describo mis trabajos anteriores y lo que aprendí en cada uno. El diseño sigue un orden cronológico, con fechas y responsabilidades, para facilitar la lectura. Elegí una apariencia sobria para reflejar madurez profesional.
 
-- **Validación de datos**: Correo con formato correcto y contraseña no vacía.
-- **Autenticación**: Verificación contra la base de datos.
-- **Manejo de sesiones**: Sesión activa durante la navegación.
-- **Recuperación de contraseña**: Opción segura para restablecimiento (si está implementado).
+Certificaciones y diplomas
+<p align="center"> <img src="https://github.com/user-attachments/assets/6cb53776-cfa6-439b-9f17-f894b19ee4cf" alt="Certificados" /> </p>
+🎨 Diseño:
+Fondo claro con recuadros o tarjetas.
 
----
+Certificados organizados tipo galería.
 
-### Estilos CSS principales
+💬 Explicación:
+Mostrarlos con sus logotipos y nombres exactos da confianza al lector. Elegí una visual tipo galería para que se vean todos sin hacer scroll excesivo.
 
-- Diseño **responsive** (adaptable a móvil, tablet, escritorio).
-- Colores contrastantes para campos y botones.
-- Inputs con validación visual (verde o rojo según error o éxito).
-- Tipografía clara y moderna.
-- Posicionamiento centrado del formulario.
+Mis trabajos en GitHub
+<p align="center"> <img src="https://github.com/user-attachments/assets/4be1db37-f84b-46c1-9041-1e80a9d96267" alt="GitHub" /> </p>
+🎨 Diseño:
+Fondo oscuro con tarjetas de proyecto.
 
----
+Cada tarjeta incluye nombre, descripción y tecnologías usadas.
 
-## Explicación del Color de Fondo
+💬 Explicación:
+Este apartado está enfocado en mostrar proyectos reales. El fondo oscuro ayuda a resaltar los detalles de cada repositorio. Es la sección técnica más importante y por eso cuidé su estructura.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/20eafb6c-5460-4e87-9a23-726d1d41d9fb" width="600"/>
-</div>
+Contacto
+<p align="center"> <img src="https://github.com/user-attachments/assets/8adc80c8-02b6-4d54-a5ff-1e624e48b51a" alt="Contacto" /> </p>
+🎨 Diseño:
+Uso de íconos o botones modernos (correo, LinkedIn, GitHub).
 
-- **Color principal:** Tonalidad azul degradado.
-- **Justificación:** El azul transmite **confianza, seguridad y profesionalismo**, ideal para aplicaciones tecnológicas.
+Fondo neutro con enfoque en accesibilidad.
 
----
-
-## Explicación del Logo
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/16e2089c-4b01-4652-8052-ced88f345cc7" width="400"/>
-</div>
-
-- **Diseño:** Etiqueta de código `</>` y engranaje.
-- **Significado:**
-  - `</>` representa la programación y el código.
-  - El engranaje simboliza los procesos automáticos del software.
-- **Colores:** Negro (formalidad) y azul (tecnología).
-- **Ubicación:** Lado izquierdo, para brindar **identidad visual**.
-
----
-
-## Validaciones del Formulario
-
-- **Correo electrónico:** Campo para ingresar un correo válido. Ejemplo: `ESEWE@gmail.com`.
-- **Contraseña:** Campo seguro, se oculta con puntos.
-- **Botón "Ingresar":**
-  - Color azul oscuro con texto blanco.
-  - Resalta como acción principal (acceder).
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c3b143b0-00ba-40c1-84a2-d4a348de39ce" width="600"/>
-</div>
-
----
-
-## Credenciales de Prueba
-
-- **Correo:** `ESEWE@gmail.com`  
-- **Contraseña:** `esewe123@`
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fbf12d5a-2970-4921-9dce-c1f04a45a5dd" width="600"/>
-</div>
-
----
-
-## Botones y Diseño
-
-- **Registro:**
-  - Texto: “¿No tienes cuenta? Registrarse”.
-  - Botón blanco con borde azul.
-  - Redirige a crear una cuenta nueva.
-
-- **Botón "Ingresar":**
-  - Color azul oscuro con texto blanco.
-  - Acceso al sistema para usuarios registrados.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1afa8dbb-06d9-4277-925c-ab26b8f46745" width="600"/>
-</div>
-
----
-
+💬 Explicación:
+Este apartado permite que cualquier persona interesada pueda contactarme fácilmente. Es claro, directo y bien distribuido. Elegí colores suaves y botones llamativos para destacar sin ser invasivo.
