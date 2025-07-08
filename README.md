@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/f6b438f2-8ec8-4006-98d1-7492d3c36366)" />
+  <img src="https://github.com/user-attachments/assets/f6b438f2-8ec8-4006-98d1-7492d3c36366/portada.png" alt="Portada" />
 </p>
 
 
