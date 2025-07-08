@@ -4,7 +4,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7dab21e-9643-45c9-b979-fbf53d9f93cc/portada.png" alt="Portada" />
+  <img src="![image](https://github.com/user-attachments/assets/f6b438f2-8ec8-4006-98d1-7492d3c36366)
+" alt="Portada" />
 </p>
 
 
